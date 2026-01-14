@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Let's get a chance -28 colors-",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-01-14T03:16:21.367339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's get a chance",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/01_Let's_get_a_chance_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's get a chance -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_Let's_get_a_chance_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's get a chance -25 colors-",
+      "artist": "SHINY COLORS",
+      "has_synced": false,
+      "path": "select/03_Let's_get_a_chance_-25_colors-_SHINY_COLORS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let's get a chance",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Let's_get_a_chance_シャイニーカラーズ.txt"
+    }
+  ]
+}
